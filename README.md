@@ -1,1 +1,1 @@
-# gitlab_training_data
+# GitLab Pipeline
